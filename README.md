@@ -3,7 +3,7 @@
 **Module #:** 2  
 **Date:** May 2026  
 
-## 📌 Project Overview
+## Project Overview
 This project is a multi-page website created for the Web Apps module in CSE 310 – Applied Programming. It demonstrates semantic HTML, CSS styling, responsive design, and JavaScript interactivity.
 
 The website includes:
@@ -15,7 +15,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 
 ---
 
-## ✅ Module Requirements Checklist
+## Module Requirements Checklist
 
 ### **Required Web App Features**
 - ✔ Multiple pages (Home, About, Contact)  
@@ -35,7 +35,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 
 ---
 
-## 🛠 How to Run the Project
+## How to Run the Project
 1. Download or clone the repository:  
 
 
@@ -47,7 +47,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling + responsive layout  
 - **JavaScript** – Form validation + theme toggle  
@@ -71,17 +71,17 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 
 ---
 
-## 🧠 Learning Strategies Reflection
+## Learning Strategies Reflection
 For this module, I followed a structured schedule and worked a little each day. Breaking the project into small tasks helped me stay consistent and avoid rushing. Testing the site frequently improved my understanding of HTML, CSS, and JavaScript. Next time, I plan to start even earlier and test each feature as soon as I build it.
 
 ---
 
-## 🎥 Video Demonstration  
+## Video Demonstration  
 **Video Link:** *Add your YouTube link here*
 
 ---
 
-## 📂 GitHub Repository  
+## GitHub Repository  
 **Repo Link:** *Add your GitHub repo link here*
 
 ---
