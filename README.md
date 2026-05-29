@@ -10,7 +10,7 @@ The website includes:
 - **About page** – Purpose and technologies used  
 - **Contact page** – A JavaScript‑validated form  
 
-It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
+It also includes a **theme change** (light/dark mode) stored in `localStorage`.
 
 ---
 
@@ -21,7 +21,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 -  Responsive design with media queries  
 -  JavaScript interactivity  
   - Contact form validation  
-  - Theme toggle with saved preference   
+  - Theme change with saved preference   
 
 ---
 
@@ -30,7 +30,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 2. Open `index.html` in any browser.  
 3. Use the navigation bar to explore the pages.  
 4. Test the JavaScript features:  
-- Toggle light/dark theme  
+- Change light/dark theme  
 - Submit the contact form with invalid and valid inputs  
 
 ---
@@ -38,7 +38,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 ## Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling + responsive layout  
-- **JavaScript** – Form validation + theme toggle  
+- **JavaScript** – Form validation + theme change  
 
 ---
 
@@ -50,7 +50,7 @@ It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 | May 21 | 3 hrs | Building HTML pages |
 | May 22 | 3 hrs | CSS layout + styling |
 | May 23 | 3 hrs | Responsive design + polish |
-| May 24 | 3 hrs | JavaScript validation + theme toggle |
+| May 24 | 3 hrs | JavaScript validation + theme change |
 | May 25 | 3 hrs | Debugging + improvements |
 | May 26 | 2 hrs | README + cleanup |
 | May 27 | 1 hr | Recording video |
