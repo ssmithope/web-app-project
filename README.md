@@ -1,65 +1,87 @@
-# CSE 310 – Web Apps Module Project
+# CSE 310 – Web Apps Module Project  
+**Name:** Smith Eutrope Zephirin  
+**Module #:** 2  
+**Date:** May 2026  
 
-## Project Overview
+## 📌 Project Overview
+This project is a multi-page website created for the Web Apps module in CSE 310 – Applied Programming. It demonstrates semantic HTML, CSS styling, responsive design, and JavaScript interactivity.
 
-This project is a small multi-page website created for the CSE 310 – Applied Programming course to fulfill the Web Apps module requirements. It demonstrates semantic HTML structure, CSS styling, responsive design, and JavaScript interactivity.
+The website includes:
+- **Home page** – Overview of the project  
+- **About page** – Purpose and technologies used  
+- **Contact page** – A JavaScript‑validated form  
 
-The site includes three pages:
+It also includes a **theme toggle** (light/dark mode) stored in `localStorage`.
 
-- **Home:** Introduction to the project and its goals.
-- **About:** Description of the purpose and technologies used.
-- **Contact:** A contact form with client-side validation.
+---
 
-## Module Requirements Checklist
+## ✅ Module Requirements Checklist
 
-- **Multiple pages:** `index.html`, `about.html`, and `contact.html`.
-- **Semantic HTML:** Uses `header`, `nav`, `main`, `section`, `article`, and `footer`.
-- **CSS styling:** Custom layout, colors, spacing, and typography in `styles.css`.
-- **Responsive design:** Media queries adjust layout for smaller screens.
-- **JavaScript interactivity:**
-  - Contact form validation (required fields and email format).
-  - Theme toggle button that switches between light and dark themes and stores preference in `localStorage`.
+### **Required Web App Features**
+- ✔ Multiple pages (Home, About, Contact)  
+- ✔ Semantic HTML (`header`, `nav`, `main`, `section`, `footer`)  
+- ✔ Custom CSS styling  
+- ✔ Responsive design with media queries  
+- ✔ JavaScript interactivity  
+  - Contact form validation  
+  - Theme toggle with saved preference  
 
-## How to Run the Project
+### **General Submission Requirements**
+- ✔ 100+ lines of code  
+- ✔ Comments in JavaScript functions  
+- ✔ README.md at project root  
+- ✔ Public GitHub repository  
+- ✔ Video demo with face + code walkthrough  
 
-1. Clone or download the repository.
-2. Open `index.html` in a web browser.
-3. Navigate using the top navigation bar to view the Home, About, and Contact pages.
-4. Try the **theme toggle** button and the **contact form** to see the JavaScript features.
+---
 
-## Technologies Used
+## 🛠 How to Run the Project
+1. Download or clone the repository:  
 
-- **HTML5** for structure and content.
-- **CSS3** for styling, layout, and responsive design.
-- **JavaScript** for interactivity and form validation.
 
-## Time Log
+2. Open `index.html` in any browser.  
+3. Use the navigation bar to explore the pages.  
+4. Test the JavaScript features:  
+- Toggle light/dark theme  
+- Submit the contact form with invalid and valid inputs  
 
-> Update this with your actual times before submitting.
+---
 
-- May 24 – 2 hrs – Planning structure, reviewing module description.
-- May 25 – 3 hrs – Building HTML pages.
-- May 26 – 3 hrs – CSS styling and layout.
-- May 27 – 3 hrs – Responsive design and polishing.
-- May 28 – 3 hrs – JavaScript form validation and theme toggle.
-- May 29 – 3 hrs – Testing, debugging, and refinements.
-- May 30 – 2 hrs – Writing README and preparing video.
-- May 31 – 1 hr – Recording and uploading video.
+## 🧰 Technologies Used
+- **HTML5** – Structure  
+- **CSS3** – Styling + responsive layout  
+- **JavaScript** – Form validation + theme toggle  
 
-**Total:** 20 hours
+---
 
-## Reflection on Learning Strategies
+## ⏱ Time Log (20+ hours)
 
-For this module, I focused on breaking the work into small daily tasks and following a written schedule. This helped me avoid procrastination and stay consistent. I also used active learning by testing the website frequently in the browser after each change, which made it easier to catch layout and JavaScript issues early. For future modules, I plan to start the research and setup even earlier and continue improving my time estimates for each task.
+| Date | Hours | Activity |
+|------|--------|----------|
+| May 20 | 2 hrs | Planning, reviewing module requirements |
+| May 21 | 3 hrs | Building HTML pages |
+| May 22 | 3 hrs | CSS layout + styling |
+| May 23 | 3 hrs | Responsive design + polish |
+| May 24 | 3 hrs | JavaScript validation + theme toggle |
+| May 25 | 3 hrs | Debugging + improvements |
+| May 26 | 2 hrs | README + cleanup |
+| May 27 | 1 hr | Recording video |
 
-## Video Link
+**Total: 20 hours**
 
-> Replace this with your actual video URL once uploaded.
+---
 
-`https://www.youtube.com/your-video-link-here`
+## 🧠 Learning Strategies Reflection
+For this module, I followed a structured schedule and worked a little each day. Breaking the project into small tasks helped me stay consistent and avoid rushing. Testing the site frequently improved my understanding of HTML, CSS, and JavaScript. Next time, I plan to start even earlier and test each feature as soon as I build it.
 
-## GitHub Repository
+---
 
-> Replace this with your actual public repository URL.
+## 🎥 Video Demonstration  
+**Video Link:** *Add your YouTube link here*
 
-`https://github.com/ssmithope/web-app-portfolio`
+---
+
+## 📂 GitHub Repository  
+**Repo Link:** *Add your GitHub repo link here*
+
+---
