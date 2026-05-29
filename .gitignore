@@ -15,3 +15,6 @@ node_modules/
 # System files
 *.tmp
 *.swp
+
+# Build files
+dist/
