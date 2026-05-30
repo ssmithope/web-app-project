@@ -46,14 +46,14 @@ It also includes a **theme change** (light/dark mode) stored in `localStorage`.
 
 | Date | Hours | Activity |
 |------|--------|----------|
-| May 20 | 2 hrs | Planning, reviewing module requirements |
-| May 21 | 3 hrs | Building HTML pages |
-| May 22 | 3 hrs | CSS layout + styling |
-| May 23 | 3 hrs | Responsive design + polish |
-| May 24 | 3 hrs | JavaScript validation + theme change |
-| May 25 | 3 hrs | Debugging + improvements |
-| May 26 | 2 hrs | README + cleanup |
-| May 27 | 1 hr | Recording video |
+| May 23 | 2 hrs | Planning, reviewing module requirements |
+| May 24 | 3 hrs | Building HTML pages |
+| May 25 | 3 hrs | CSS layout + styling |
+| May 26 | 3 hrs | Responsive design + polish |
+| May 27 | 3 hrs | JavaScript validation + theme change |
+| May 28 | 3 hrs | Debugging + improvements |
+| May 29 | 2 hrs | README + cleanup |
+| May 30 | 1 hr | Recording video |
 
 **Total: 20 hours**
 
